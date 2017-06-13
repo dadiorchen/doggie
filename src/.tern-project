@@ -1,0 +1,17 @@
+{
+	"libs": [
+		"browser",
+		"jquery"
+	],
+	"loadEagerly": [
+		"importantfile.js"
+	],
+	"plugins": {
+		"node": {},
+		"es_modules": {},
+		"requirejs": {
+			"baseURL": "./",
+			"paths": {}
+		}
+	}
+}
