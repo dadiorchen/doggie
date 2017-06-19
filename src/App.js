@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import {Line,Bar} from 'react-chartjs';
-import {FundModel} from 'doggie_model';
+import {FundModel} from './doggie_model/src/FundModel.js';
 
 
 
